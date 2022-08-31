@@ -1,1 +1,5 @@
-# Krishnamurthi-G
+DATA SCIENCE ASSIGNMENT 
+
+Name: Krishnamurthi G
+USN: 1CR19IS067
+Class: 505
